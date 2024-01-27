@@ -1,0 +1,6 @@
+com\example\s27433Bank\S27433BankApplication.class
+com\example\s27433Bank\ClientStorage.class
+com\example\s27433Bank\Transfer.class
+com\example\s27433Bank\TransferType.class
+com\example\s27433Bank\Client.class
+com\example\s27433Bank\TransferService.class
